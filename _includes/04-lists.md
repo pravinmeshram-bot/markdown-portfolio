@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Turn on GitHub Pages First
+- [ ] Outline my portfolio Second
+- [ ] Introduce myself to the world Third
